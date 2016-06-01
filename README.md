@@ -57,7 +57,31 @@
 `active`, `current` — активный элемент, например, текущий пункт меню
 
 
-## Примеры ипользования
+## Примеры использования
+
+### Картинка пользователя (юзерпик)
+
+```html
+<div class="user">
+  <img class="user__img" src="userpic.png" alt="Дормидонт Петрович">
+  <a class="user__link" href="#">Дормидонт Петрович</a>
+</div>
+```
+
+### Галерея
+
+```html
+<div class="gallery gallery--slider">
+  <ul class="gallery__list">
+    <li class="gallery__item">
+      <img class="gallery__img" src="flowers.jpg" alt="Цветём как в последний раз">
+    </li>
+    <li class="gallery__item">
+      <img class="gallery__img" src="trees.jpg" alt="Парк «Три сосны»">
+    </li>
+  </ul>
+</div>
+```
 
 ### Навигация
 
@@ -87,30 +111,6 @@
     </li>
   </ul>
 </nav>
-```
-
-### Картинка пользователя (юзерпик)
-
-```html
-<div class="user">
-  <img class="user__img" src="userpic.png" alt="Дормидонт Петрович">
-  <a class="user__link" href="#">Дормидонт Петрович</a>
-</div>
-```
-
-### Галерея
-
-```html
-<div class="gallery gallery--slider">
-  <ul class="gallery__list">
-    <li class="gallery__item">
-      <img class="gallery__img" src="flowers.jpg" alt="Цветём как в последний раз">
-    </li>
-    <li class="gallery__item">
-      <img class="gallery__img" src="trees.jpg" alt="Парк «Три сосны»">
-    </li>
-  </ul>
-</div>
 ```
 
 ### Статья
