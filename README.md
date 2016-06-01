@@ -2,7 +2,7 @@
 
 ## Изображения
 
-`img` — картинка
+`img` — картинка.
 
 `icon` — иконка
 
@@ -52,13 +52,13 @@
 ```html
 <article class="entry">
   <header class="entry__header">
-    <H3 class="entry__title title-entry">
+    <h3 class="entry__title title-entry">
       <a class="title-entry__link" href="#">Коллективное бессознательное отражает звукорядный кризис.</a>
-    </H3>
+    </h3>
     <time class="title-entry__datetime">32 мая, 10:87</time>
   </header>
 
-  <div class="entry__author autor-entry">
+  <div class="entry__author author-entry">
     <img class="autor-entry__img" src="userpic.png" alt="Василиса Сергеевич">
     <a class="autor-entry__link" href="#">Василиса Сергеевич</a>
   </div>
