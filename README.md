@@ -107,18 +107,32 @@
 <article class="entry">
   <header class="entry__header">
     <h3 class="entry__title title-entry">
-      <a class="title-entry__link" href="#">Коллективное бессознательное отражает звукорядный кризис.</a>
+      <a class="title-entry__link" href="#">Резиновые уточки как способ самопознания</a>
     </h3>
     <time class="title-entry__datetime">32 мая, 10:87</time>
   </header>
 
   <div class="entry__author author-entry">
-    <img class="autor-entry__img" src="userpic.png" alt="Василиса Сергеевич">
-    <a class="autor-entry__link" href="#">Василиса Сергеевич</a>
+    <img class="author-entry__img" src="userpic.png" alt="Василиса Сергеевич">
+    <a class="author-entry__link" href="#">Василиса Сергеевич</a>
   </div>
 
   <div class="entry__content">
     Весеннее равноденствие, как и везде в пределах наблюдаемой вселенной, многопланово колеблет инсайт. В связи с этим нужно подчеркнуть, что фаза вероятна.
+  </div>
+  
+  <div class="entry__tags tags-entry">
+    <ul class="tags-entry__list">
+      <li class="tags-entry__item">
+        <a class="tags-entry__link" href="#">хоровод своими руками</a>
+      </li>
+      <li class="tags-entry__item">
+        <a class="tags-entry__link" href="#">фарфоровые тапки</a>
+      </li>
+      <li class="tags-entry__item">
+        <a class="tags-entry__link" href="#">гуталин в кулинарии</a>
+      </li>
+    </ul>
   </div>
 
   <menu class="entry__menu menu-entry">
@@ -133,6 +147,6 @@
         <a class="menu-entry__link" href="#">Поделиться</a>
       </li>
     </ul>
-  </footer>
+  </menu>
 </article>
 ```
