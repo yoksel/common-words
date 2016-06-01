@@ -59,6 +59,17 @@
 
 ## Примеры использования
 
+### Простой список
+
+```html
+<ul class="list">
+  <li class="item">Первое</li>
+  <li class="item">Второе</li>
+  <li class="item">Третье</li>
+</ul>
+```
+
+
 ### Картинка пользователя (юзерпик)
 
 ```html
@@ -167,6 +178,8 @@
   </div>
   
   <div class="entry__tags tags-entry">
+    <h4 class="tags-entry__tilte">Метки</h4>
+    
     <ul class="tags-entry__list">
       <li class="tags-entry__item">
         <a class="tags-entry__link" href="#">хоровод своими руками</a>
