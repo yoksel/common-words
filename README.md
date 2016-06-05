@@ -138,9 +138,9 @@
   <h4 class="widget__tilte">Выращиваем желе</h4>
 
   <div class="widget__content">
-    Чтобы вырастить общительное дружелюбное желе, 
+    <p>Чтобы вырастить общительное дружелюбное желе, 
     нам потребуется рулон поролона, два килограмма сахара, 
-    три яйца и пол чайной чашки ацетона.
+    три яйца и пол чайной чашки ацетона.</p>
     <a class="widget__link" href="#">Не читать дальше...</a>
   </div>
 </div>
@@ -157,19 +157,20 @@
         <li class="news__item item-news">
             <h4 class="item-news__title">Соревнования среди воблы по конькобежному спорту</h4>
             <div class="item-news__text">
-                <p>Победила команда килек из Петрозаводска</p>
+              <p>Победила команда килек из Петрозаводска</p>
                 
-                <a href="#" class="item-news__link">Читать дальше</a>
+              <a href="#" class="item-news__link">Читать дальше</a>
             </div>
         </li>
 
         <li class="news__item item-news">
             <h4 class="item-news__title">Учёные уточнили роль напильника в уходе за ногтями</h4>
             <div class="item-news__text">
-                <p>Британские учёные высоко оценили вклад 
+              <p>Британские учёные высоко оценили вклад 
                 напильника в отращивание полутораметровых ногтей.</p>
 
-            <a href="#" class="item-news__link">Не читать дальше</a></div>
+              <a href="#" class="item-news__link">Не читать дальше</a>
+            </div>
         </li>
     </ul>
 </div>
@@ -212,11 +213,13 @@
     <h3 class="entry__title title-entry">
       <a class="title-entry__link" href="#">Резиновые уточки как способ самопознания</a>
     </h3>
+    
     <time class="title-entry__datetime">32 мая, 10:87</time>
   </header>
 
   <div class="entry__author author-entry">
     <img class="author-entry__img" src="userpic.png" alt="Василиса Сергеевич">
+    
     <a class="author-entry__link" href="#">Василиса Сергеевич</a>
   </div>
 
