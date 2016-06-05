@@ -249,7 +249,7 @@
         <a class="menu-entry__link" href="#">238 ответов</a>
       </li>
       <li class="menu-entry__item menu-entry__item--write">
-        <a class="menu-entry__link" href="#">Написать ответ</a>
+        <a class="menu-entry__link" href="#">Написать в спортлото</a>
       </li>
       <li class="menu-entry__item menu-entry__item--share">
         <a class="menu-entry__link" href="#">Поделиться</a>
