@@ -2,7 +2,7 @@
 
 ## Изображения
 
-`img`, `pic`  — картинка
+`img`, `pic`, `image`, `picture` — картинка
 
 `icon` — иконка
 
@@ -12,7 +12,7 @@
 
 ## Текст
 
-`title`, `subject`, `heading`, `caption` — заголовок
+`title`, `subject`, `heading`, `headline`, `caption` — заголовок
 
 `lead`, `tagline` — лид-абзац в тексте
 
@@ -31,6 +31,8 @@
 `item` — элемент списка
 
 ## Раскладка
+
+`document`, `root`, `page` — корневой элемент страницы
 
 `wrapper` — обёртка, обычно снаружи элемента 
 
