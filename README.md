@@ -14,6 +14,8 @@
 
 `title`, `subject`, `heading`, `headline`, `caption` — заголовок
 
+`subtitle` — подзаголовок
+
 `lead`, `tagline` — лид-абзац в тексте
 
 `text` — текстовый контент
