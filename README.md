@@ -253,18 +253,18 @@
     </ul>
   </div>
 
-  <menu class="entry__menu menu-entry">
-    <ul class="menu-entry__list">
-      <li class="menu-entry__item menu-entry__item--read">
-        <a class="menu-entry__link" href="#">238 ответов</a>
+  <div class="entry__actions actions-entry">
+    <ul class="actions-entry__list">
+      <li class="actions-entry__item actions-entry__item--read">
+        <a class="actions-entry__link" href="#">238 ответов</a>
       </li>
-      <li class="menu-entry__item menu-entry__item--write">
-        <a class="menu-entry__link" href="#">Написать в спортлото</a>
+      <li class="actions-entry__item actions-entry__item--write">
+        <a class="actions-entry__link" href="#">Написать в спортлото</a>
       </li>
-      <li class="menu-entry__item menu-entry__item--share">
-        <a class="menu-entry__link" href="#">Поделиться</a>
+      <li class="actions-entry__item actions-entry__item--share">
+        <a class="actions-entry__link" href="#">Поделиться</a>
       </li>
     </ul>
-  </menu>
+  </div>
 </article>
 ```
