@@ -74,13 +74,11 @@
 
 ## Медиавыражения
 
-`phone`, `mobile` — (width <= 320px)
+`phone`, `mobile` — мобильные устройства
 
-`tablet` — (width >= 321px) and (width <= 768px)
+`tablet` — планшеты
 
-`desktop` — (width >= 769px) and (width <= 1140px)
-
-`desktop_lg` — (width >= 1141px)
+`desktop` — настольные компьютеры
 
 ## Разное
 
