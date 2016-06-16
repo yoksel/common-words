@@ -70,9 +70,9 @@
 
 ```html
 <ul class="list">
-  <li class="item">Первое</li>
-  <li class="item">Второе</li>
-  <li class="item">Третье</li>
+  <li class="list__item">Первое</li>
+  <li class="list__item">Второе</li>
+  <li class="list__item">Третье</li>
 </ul>
 ```
 
