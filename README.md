@@ -134,8 +134,6 @@
 
 `tip`, `tooltip` — появляющиеся подсказки
 
-`contact` — телефон, эл. почта или другой способ связи. Можно объединить в группу обёрткой `contacts`
-
 ## Состояния
 
 `active`, `current` — активный элемент, например, текущий пункт меню
@@ -341,14 +339,4 @@
     </ul>
   </div>
 </article>
-```
-
-### Блок с контактами (к примеру, в шапке)
-
-```html
-  <div class="contacts">
-    <div class="contact">Телефон: <a href="mailto:mail@yandex.ru">mail@yandex.ru</a></div>
-    <div class="contact">Эл. почта: <a href="tel:+70981234567">+7 098 123-45-67</a></div>
-    <div class="contact">Скайп: <a href="callto:skypelogin">skypelogin</a></div>
-  </div>
 ```
