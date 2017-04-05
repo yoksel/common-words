@@ -219,7 +219,7 @@
 
 ```html
 <div class="widget">
-  <h4 class="widget__tilte">Выращиваем желе</h4>
+  <h4 class="widget__title">Выращиваем желе</h4>
 
   <div class="widget__content">
     <p>Чтобы вырастить общительное дружелюбное желе,
@@ -318,7 +318,7 @@
   </div>
 
   <div class="entry__tags tags-entry">
-    <h4 class="tags-entry__tilte">Метки</h4>
+    <h4 class="tags-entry__title">Метки</h4>
 
     <ul class="tags-entry__list">
       <li class="tags-entry__item">
