@@ -10,6 +10,8 @@
 
 `userpic`, `avatar` — юзерпик, маленькая картинка пользователя
 
+`thumbnail` — миниатюра(уменьшеное) изображения
+
 ## Текст
 
 `title`, `subject`, `heading`, `headline`, `caption` — заголовок
