@@ -86,7 +86,7 @@
 
 `tablet` — планшеты
 
-`notebook` — ноутбуки
+`notebook`, `laptop` — ноутбуки
 
 `desktop` — настольные компьютеры
 
