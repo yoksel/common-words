@@ -145,7 +145,7 @@
 `active`, `current` — активный элемент, например, текущий пункт меню
 
 `hidden` — скрытый элемент
- 
+
 `error` — статус ошибки
 
 `warning` — статус предупреждения
@@ -304,7 +304,7 @@
       <a class="title-entry__link" href="#">Резиновые уточки как способ самопознания</a>
     </h3>
 
-    <time class="title-entry__datetime">32 мая, 10:87</time>
+    <time class="entry__datetime">32 мая, 10:87</time>
   </header>
 
   <div class="entry__author author-entry">
