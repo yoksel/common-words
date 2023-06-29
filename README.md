@@ -102,7 +102,7 @@
 
 `small`, `sm` — небольшой
 
-`medium`, `base` — средний
+`medium`, `base`, `md` — средний
 
 `big`, `large`, `lg` — большой
 
